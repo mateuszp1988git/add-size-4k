@@ -4,7 +4,7 @@
 :root{
     --yellow:#44a712;    
 }
-
+/* besing valiu */
 *{
     font-family: 'Nunito', sans-serif;
     margin:0; 
@@ -12,8 +12,7 @@
     box-sizing: border-box;
     text-decoration: none;
     font-weight: 600;
-    outline: none;
-    
+    outline: none;    
     transition: all .2s linear;
 }
 
